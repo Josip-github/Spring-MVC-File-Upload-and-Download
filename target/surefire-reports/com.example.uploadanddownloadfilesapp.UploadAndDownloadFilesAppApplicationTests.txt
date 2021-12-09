@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.uploadanddownloadfilesapp.UploadAndDownloadFilesAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.899 s - in com.example.uploadanddownloadfilesapp.UploadAndDownloadFilesAppApplicationTests
